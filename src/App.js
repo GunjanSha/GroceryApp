@@ -45,7 +45,6 @@ function App() {
           <Route exact path='/Login' component={Login} />    
 
            <Route path='/Signup' component={Reg} />     
-
         </Switch>    
 
        <Switch>  
